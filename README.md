@@ -1,8 +1,10 @@
 # Tugas Praktikum
 #### 1. Buat sebuah database dengan nama latihan2
+![gambar7](https://user-images.githubusercontent.com/115950790/231318938-01609fd8-5461-4284-9af3-ab9e504f6cc8.png)
 
 
 #### 2. Buat sebuah tabel dengan nama biodata (nama, alamat) didalamdatabase latihan1
+![gambar8](https://user-images.githubusercontent.com/115950790/231318952-5bbc5d80-d90e-4bc0-8bfc-c45c4a2c5512.png)
 
 
 #### 3. Tambahkan sebuah kolom keterangan (varchar 15), sebagai kolom terakhir
